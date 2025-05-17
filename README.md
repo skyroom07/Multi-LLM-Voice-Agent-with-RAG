@@ -1,6 +1,6 @@
-# Generative-AI-Digital-Assistant-w-RAG (Agent-Nesh 🤖)
+# Multi-LLM-Agent-With_RAG ( 🤖)
 
-Agent-Nesh is a Retrieval-Augmented Generation (RAG)-based multi-modal AI assistant that leverages advanced AI models to provide intelligent, context-aware responses to various types of input including text, images, code, and voice. This project uses the following models:
+This is a Retrieval-Augmented Generation (RAG)-based multi-modal AI assistant that leverages advanced AI models to provide intelligent, context-aware responses to various types of input including text, images, code, and voice. This project uses the following models:
 
 - [Meta Llama 3](https://build.nvidia.com/explore/discover#llama3-70b)
 - [Microsoft Phi 3 Vision](https://build.nvidia.com/microsoft/phi-3-vision-128k-instruct)
