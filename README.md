@@ -85,9 +85,6 @@ Generative agent/
 - **Voice Input**: Use the voice input feature to transcribe spoken language into text.
 
 
-## Acknowledgements
-
-- [NVIDIA NIM](https://www.nvidia.com/en-us/ai/)
-- [OpenAI](https://openai.com/)
-- [Streamlit](https://streamlit.io/)
+## Contact
+[Apollum](https://x.com/x_apollum)
 
