@@ -48,7 +48,7 @@
 
 ### 2. Clone & install
 ```bash
-git clone https://github.com/<your-org>/Multi-LLM-Voice-Agent-with-RAG.git
+git clone https://github.com/skyroom07/Multi-LLM-Voice-Agent-with-RAG.git
 cd Multi-LLM-Voice-Agent-with-RAG
 python -m venv .venv
 .\.venv\Scripts\activate          # On macOS/Linux: source .venv/bin/activate
@@ -140,11 +140,6 @@ Open the local URL (default `http://localhost:8501`) and start chatting, uploadi
 3. Submit a PR describing the use case and any new environment variables.
 
 ---
-
-## 📣 Community & Support
-- Follow [Apollum](https://x.com/x_apollum) for release notes.
-- Open a GitHub Issue for bugs or feature requests.
-- Share demo videos by dropping them into `docs/media/` and linking them in this README’s demo section.
 
 Let’s build safer, smarter multimodal copilots together. 🔊🖼️💻
 
